@@ -4,4 +4,9 @@
 
 Aqui tienes como quedó el proyecto 
 
-<img width="1667" height="885" alt="image" src="https://github.com/user-attachments/assets/84de0bed-0afb-4e5e-9b5e-6860dc10d643" />
+<img width="665" height="612" alt="image" src="https://github.com/user-attachments/assets/abe89bf2-b591-48f5-bfa7-074422841456" />
+
+DOCUMENTACIÓN INTERACTIVA
+
+<img width="1768" height="908" alt="image" src="https://github.com/user-attachments/assets/e20a9f26-05e3-4f8c-9df2-f03d9b20b189" />
+
